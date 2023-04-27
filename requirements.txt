@@ -1,0 +1,7 @@
+lxml
+langchain@git+https://github.com/hwchase17/langchain
+torch
+transformers
+safetensors
+
+

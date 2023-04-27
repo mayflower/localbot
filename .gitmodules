@@ -1,0 +1,7 @@
+[submodule "vicuna-13B-1.1-GPTQ-4bit-128g"]
+	path = vicuna-13B-1.1-GPTQ-4bit-128g
+	url = https://huggingface.co/TheBloke/vicuna-13B-1.1-GPTQ-4bit-128g
+[submodule "GPTQ-for-LLaMa"]
+	path = GPTQ-for-LLaMa
+	url = https://github.com/oobabooga/GPTQ-for-LLaMa.git
+	branch = cuda
